@@ -72,3 +72,7 @@ This is a **personal hobby and learning project**: a Grok-bot-assisted pipeline 
 JSONL is plain text with one JSON object per line. Records contain the source image URL, original post URL when available, author, tags, original post time (`publishedAt`) and archive time (`archivedAt`). Weekly grouping follows archive time, not necessarily the creation or publication date of the image.
 
 The default daily publication time is 03:15 in Asia/Shanghai. Scheduling runs inside the main application, with startup recovery and retries after failures. User edits to README and other documentation are preserved. Published monthly Releases remain historical snapshots.
+
+## 相关项目 / Related projects
+
+- [主项目源码与部署说明 / Source code and setup](https://github.com/WsureDev/social-image-archive) — Cloudflare Worker、Queues/D1、NAS 消费图库与内置 JSONL 发布器。 / Worker, Queues/D1, NAS archive and built-in JSONL publisher.
