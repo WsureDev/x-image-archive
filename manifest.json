@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "publicationDate": "2026-11-18",
+  "publicationDate": "2026-11-19",
   "timezone": "Asia/Shanghai",
-  "records": 9810,
+  "records": 11695,
   "weeks": [
     {
       "path": "weeks/2026-W44.jsonl",
@@ -21,8 +21,8 @@
     },
     {
       "path": "weeks/2026-W47.jsonl",
-      "records": 1359,
-      "sha256": "4c9008fb3281080abbd344eef1fe5eaba6cfdd5fad5094ea9515963ea8349976"
+      "records": 3244,
+      "sha256": "490cada978e5e04ee5d4533f2e069b465c825a629dbddb773700569609ae9f41"
     }
   ]
 }
